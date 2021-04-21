@@ -1,0 +1,27 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+
+#nav{
+    background-color:rgb(128, 186, 240);
+    overflow:hidden;
+    padding:10px 40px;
+}
+
+#nav a{
+    margin-top:0px;
+    color:burlywood;
+    vertical-align:middle;
+    background-color:rgb(54, 50, 43);
+    padding: 10px;
+    text-decoration:none;
+    display:inline-block;
+    font-size:20px;
+    margin-right:120px;
+
+}
+#nav a:hover{
+    background-color:rgb(45, 24, 187);
+    color:rgb(228, 176, 112);
+}
